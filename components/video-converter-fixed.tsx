@@ -946,7 +946,7 @@ export default function ModernVideoConverter() {
 
               <div className="bg-white/70 rounded-xl p-6 max-w-lg mx-auto shadow-lg">
                 <p className="text-green-800 mb-3 font-medium">
-                  <strong>PayPal Account:</strong> info@cantinatexmex.ch
+                  <strong>PayPal Account</strong>
                 </p>
                 <p className="text-sm text-green-600">
                   Clicking any amount will open PayPal in a new tab with the standard PayPal donation form
