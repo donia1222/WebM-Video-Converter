@@ -1150,7 +1150,7 @@ export default function ModernVideoConverter() {
             </Dialog>
           </div>
 
-          <p className="text-muted-foreground">© 2025 Media Converter. All rights reserved.</p>
+          <p className="text-muted-foreground">© 2025 Lweb Schweiz. All rights reserved.</p>
         </div>
       </div>
     </div>
