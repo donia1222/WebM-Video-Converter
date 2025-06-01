@@ -500,7 +500,7 @@ export default function ModernVideoConverter() {
                 }`}
               >
                 <Video className="h-6 w-6" />
-                Video Converter
+                Video 
               </Button>
               <Button
                 onClick={() => handleTabSwitch("image")}
@@ -512,7 +512,7 @@ export default function ModernVideoConverter() {
                 }`}
               >
                 <ImageIcon className="h-6 w-6" />
-                Image Converter
+                Image
               </Button>
             </div>
           </div>
